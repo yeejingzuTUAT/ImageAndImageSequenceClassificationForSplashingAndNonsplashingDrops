@@ -2,7 +2,7 @@
 
 This is the source code for the following publications:
 
-1. Jingzu Yee, Daichi Igarashi (五十嵐大地), Akinori Yamanaka (山中晃徳), and Yoshiyuki Tagawa (田川義之) , "Video-Based Classification of Splashing and Nonsplashing Drops using Interpretable Neural Network", *submitted to AIAA Journal*, (2022)
+1. Jingzu Yee, Daichi Igarashi (五十嵐大地), Pradipto, Akinori Yamanaka (山中晃徳), and Yoshiyuki Tagawa (田川義之), "Interpretation of explainable artificial intelligence reveals correlation between morphological evolution of splashing drop and exerted impact force", *in preparation*
 
 2. Jingzu Yee, Daichi Igarashi, Akinori Yamanaka and Yoshiyuki Tagawa. "Features of a Splashing Drop on a Solid Surface and the Temporal Evolution extracted through Image-Sequence Classification using an Interpretable Feedforward Neural Network," AIAA 2022-4174. AIAA AVIATION 2022 Forum. June 2022. https://doi.org/10.2514/6.2022-4174
 
